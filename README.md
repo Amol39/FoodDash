@@ -48,7 +48,7 @@ To run the **FoodDash** project on your local machine, follow these steps:
     ```bash
     npm start server
     ```
-4. The backend API should now be running on `http://localhost:5000` or another port specified in your terminal.
+4. The backend API should now be running on `http://localhost:4000` or another port specified in your terminal.
 
 ### 4. Running the Frontend
 
@@ -64,13 +64,13 @@ To run the **FoodDash** project on your local machine, follow these steps:
     ```bash
     npm run dev
     ```
-4. The Frontend should now be running on `http://localhost:3000` or another port specified in your terminal.
+4. The Frontend should now be running on `http://localhost:5173` or another port specified in your terminal.
 
 ### 5. Accessing the Application
 
-- **Admin Dashboard**: Open your browser and go to `http://localhost:3000` (or the specified port) to access the admin dashboard.
-- **Frontend**: Similarly, access the user-facing frontend on `http://localhost:3000` (or the specified port).
-- **Backend**: The backend API will be available at `http://localhost:5000`.
+- **Admin Dashboard**: Open your browser and go to `http://localhost:5174` (or the specified port) to access the admin dashboard.
+- **Frontend**: Similarly, access the user-facing frontend on `http://localhost:5173` (or the specified port).
+- **Backend**: The backend API will be available at `http://localhost:4000`.
 
 ## Key Features
 
